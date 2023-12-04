@@ -20,5 +20,7 @@
 
   <i>Still in progress</i>
   
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Gandi--IDE-Animator.js-default"></img></a>
+  |Platform & Name|Description|Link|
+  |----|----|----|
+  |<a><img alt="Static Badge" src="https://img.shields.io/badge/Gandi--IDE-Animator.js-default"></img></a>|Make animations based on timelines|https://dilemmagx.github.io/Scratch-Extensions/lib/Animator.js|
 </div>
