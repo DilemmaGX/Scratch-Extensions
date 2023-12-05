@@ -20,7 +20,7 @@
 
   <i>Still in progress</i>
   
-  |Platform & Name|Description|Versions & Status|Link|
-  |----|----|----|----|
-  |<div align="middle"><img alt="Static Badge" src="https://img.shields.io/badge/Gandi--IDE-Animator.js-default"></img></div>|<div align="middle">Make animations based on scheduled timelines</div>|<div align="middle"><img alt="Static Badge" src="https://img.shields.io/badge/release-v1.0.1-default"></img></div>|<div align="middle">https://dilemmagx.github.io/Scratch-Extensions/lib/Animator.js</div>|
+  |Platform & Name|Description|Versions & Status|Link|Doc|
+  |----|----|----|----|----|
+  |<div align="middle"><img alt="Static Badge" src="https://img.shields.io/badge/Gandi--IDE-Animator.js-default"></img></div>|<div align="middle">Make animations based on scheduled timelines</div>|<div align="middle"><img alt="Static Badge" src="https://img.shields.io/badge/release-v1.0.1-default"></img></div>|<div align="middle">https://dilemmagx.github.io/Scratch-Extensions/lib/Animator.js</div>|<div align="middle">https://dilemmagx.github.io/Scratch-Extensions/doc/Animator.html</div>|
 </div>
